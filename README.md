@@ -1,4 +1,4 @@
-### ✨ EatPieRN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### ✨ EatPieRN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 [![HitCount](http://hits.dwyl.com/eatpiern/simplebin.svg)](http://hits.dwyl.com/eatpiern/simplebin)
 
