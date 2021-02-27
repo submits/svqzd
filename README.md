@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/eatpiern">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatpiern&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatpiern&theme=material-palenight&langs_count=5" />
 </a>  
 
   *Website work in progress 🤫*
