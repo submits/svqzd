@@ -25,6 +25,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eatpiern&show_icons=true&include_all_commits=true&theme=gruvbox" alt="EatPieRN's github stats" />
 </a>
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eatpiern&langs_count=8&theme=gruvbox)](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
   *Website work in progress 🤫*
