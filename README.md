@@ -29,8 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eatpiern&show_icons=true&include_all_commits=true&theme=material-palenight" alt="EatPieRN's github stats" />
 </a>
 
-<a href="https://github.com/eatpiern">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatpiern&theme=material-palenight&langs_count=5" />
-</a>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
   *Website work in progress 🤫*
