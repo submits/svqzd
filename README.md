@@ -1,10 +1,6 @@
 ### ✨ EatPieRN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-[![HitCount](http://hits.dwyl.com/eatpiern/simplebin.svg)](http://hits.dwyl.com/eatpiern/simplebin)
-
-
-
-- 🔭 I’m currently working on [Pokélook](https://github.com/eatpiern/pokelook)
+- 🔭 I’m currently working on random projects. 
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything [here](https://github.com/eatpiern/eatpiern/issues)
 
