@@ -1,11 +1,5 @@
-### ✨ EatPieRN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> @ [Air](https://github.com/AirrHU). 
+`this was way too cringe i had to remove it`
 
-- 💬 Ask me about anything [here](https://github.com/eatpiern/eatpiern/issues)
+`im gog hi`
 
-<a href="https://github.com/svqzd/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svqzd&show_icons=true&include_all_commits=true&theme=gruvbox" alt="EatPieRN's github stats" />
-</a>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svqzd&langs_count=8&theme=gruvbox)](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+![bob](https://user-images.githubusercontent.com/49820048/148655753-ac1d8d9b-8f2e-417f-9162-6e7f3e833acf.gif)
