@@ -21,7 +21,7 @@ jobs:
           # Options
           user: svqzd
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Europe/Bucharest
           config_twemoji: yes
           config_gemoji: no
@@ -29,3 +29,11 @@ jobs:
           plugin_habits_days: 7
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages-graphs, os-graphs
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_languages_other: yes
+          repositories_affiliations: owner, collaborator
